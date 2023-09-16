@@ -16,9 +16,7 @@ squre.forEach((items)=>{
 })
 
 clean.onclick=()=>{
-    if( ){
-        
-    }
+   
     for (items in timesClicked){
     
         timesClicked[items]=0;
